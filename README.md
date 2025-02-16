@@ -39,7 +39,7 @@ chmod +x check_m3u.py
 ## 使用方法
 1. 运行检测：
 ```
-sudo ./iptv.sh
+sudo python3 iptv.py
 ```
 
 2. 选择检测模式：
